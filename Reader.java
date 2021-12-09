@@ -483,6 +483,6 @@ public class Xls_Reader {
 			}
 		}
 		return -1;
-
+new lineadded;
 	}
 }
